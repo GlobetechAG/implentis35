@@ -11,7 +11,7 @@
 	</description>
 
 	<gap:config-file platform="ios" parent="CFBundleShortVersionString">
-		    <string>12.0.9</string>
+		    <string>1.0.4</string>
 	</gap:config-file>
 
 	<author href="http://www.implentis.ch">
